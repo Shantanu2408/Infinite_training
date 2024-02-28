@@ -1,0 +1,7 @@
+D:\infinite_Training\Infinite_1\Check\obj\Debug\Infinite_1.csproj.AssemblyReference.cache
+D:\infinite_Training\Infinite_1\Check\obj\Debug\Infinite_1.csproj.CoreCompileInputs.cache
+D:\infinite_Training\Infinite_1\Check\bin\Debug\Check.exe.config
+D:\infinite_Training\Infinite_1\Check\bin\Debug\Check.exe
+D:\infinite_Training\Infinite_1\Check\bin\Debug\Check.pdb
+D:\infinite_Training\Infinite_1\Check\obj\Debug\Check.exe
+D:\infinite_Training\Infinite_1\Check\obj\Debug\Check.pdb

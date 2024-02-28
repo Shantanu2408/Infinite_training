@@ -1,0 +1,11 @@
+D:\infinite_Training\Task_3\Task_3\bin\Debug\Task_3.exe.config
+D:\infinite_Training\Task_3\Task_3\bin\Debug\Task_3.exe
+D:\infinite_Training\Task_3\Task_3\bin\Debug\Task_3.pdb
+D:\infinite_Training\Task_3\Task_3\obj\Debug\Task_3.csproj.AssemblyReference.cache
+D:\infinite_Training\Task_3\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
+D:\infinite_Training\Task_3\Task_3\obj\Debug\Task_3.exe
+D:\infinite_Training\Task_3\Task_3\obj\Debug\Task_3.pdb
+D:\infinite_Training\Task_3\Task_3\bin\Debug\Project_1.exe
+D:\infinite_Training\Task_3\Task_3\bin\Debug\Project_1.pdb
+D:\infinite_Training\Task_3\Task_3\bin\Debug\Project_1.exe.config
+D:\infinite_Training\Task_3\Task_3\obj\Debug\Task_3.csproj.CopyComplete

@@ -1,0 +1,7 @@
+D:\infinite_Training\Task_A\Task_A\bin\Debug\Task_A.exe.config
+D:\infinite_Training\Task_A\Task_A\bin\Debug\Task_A.exe
+D:\infinite_Training\Task_A\Task_A\bin\Debug\Task_A.pdb
+D:\infinite_Training\Task_A\Task_A\obj\Debug\Task_A.csproj.AssemblyReference.cache
+D:\infinite_Training\Task_A\Task_A\obj\Debug\Task_A.csproj.CoreCompileInputs.cache
+D:\infinite_Training\Task_A\Task_A\obj\Debug\Task_A.exe
+D:\infinite_Training\Task_A\Task_A\obj\Debug\Task_A.pdb
