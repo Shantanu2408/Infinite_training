@@ -1,0 +1,7 @@
+D:\infinite_Training\AS_2\AS_2\bin\Debug\AS_2.exe.config
+D:\infinite_Training\AS_2\AS_2\bin\Debug\AS_2.exe
+D:\infinite_Training\AS_2\AS_2\bin\Debug\AS_2.pdb
+D:\infinite_Training\AS_2\AS_2\obj\Debug\AS_2.csproj.AssemblyReference.cache
+D:\infinite_Training\AS_2\AS_2\obj\Debug\AS_2.csproj.CoreCompileInputs.cache
+D:\infinite_Training\AS_2\AS_2\obj\Debug\AS_2.exe
+D:\infinite_Training\AS_2\AS_2\obj\Debug\AS_2.pdb
