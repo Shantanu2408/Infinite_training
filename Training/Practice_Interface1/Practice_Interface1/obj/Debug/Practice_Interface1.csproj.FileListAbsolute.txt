@@ -1,0 +1,7 @@
+D:\infinite_Training\Practice_Interface1\Practice_Interface1\bin\Debug\Practice_Interface1.exe.config
+D:\infinite_Training\Practice_Interface1\Practice_Interface1\bin\Debug\Practice_Interface1.exe
+D:\infinite_Training\Practice_Interface1\Practice_Interface1\bin\Debug\Practice_Interface1.pdb
+D:\infinite_Training\Practice_Interface1\Practice_Interface1\obj\Debug\Practice_Interface1.csproj.AssemblyReference.cache
+D:\infinite_Training\Practice_Interface1\Practice_Interface1\obj\Debug\Practice_Interface1.csproj.CoreCompileInputs.cache
+D:\infinite_Training\Practice_Interface1\Practice_Interface1\obj\Debug\Practice_Interface1.exe
+D:\infinite_Training\Practice_Interface1\Practice_Interface1\obj\Debug\Practice_Interface1.pdb
