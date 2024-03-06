@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Student
+namespace Student: Product
 {
     abstract class Student
     {
@@ -58,6 +58,7 @@ namespace Student
 
             Console.WriteLine($"Graduate Student: {gradStudent.Name}, ID: {gradStudent.StudentId}, Grade: {gradStudent.Grade}");
             Console.WriteLine($"Is Passed: {gradStudent.IsPassed(gradStudent.Grade)}");
+            SortedListFunction();
             Console.ReadLine();
         }
     }

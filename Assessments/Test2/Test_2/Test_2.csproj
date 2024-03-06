@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C24D81F5-DE8D-4F5D-B48C-F4732846A81A}</ProjectGuid>
+    <ProjectGuid>{F7D17566-9BC0-43A0-B640-582763A12C4B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Test2</RootNamespace>
-    <AssemblyName>Test2</AssemblyName>
+    <RootNamespace>Test_2</RootNamespace>
+    <AssemblyName>Test_2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp1.Program</StartupObject>
+    <StartupObject>Test_1.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,8 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="Products.cs" />
+    <Compile Include="MainFunc.cs" />
+    <Compile Include="Product.cs" />
     <Compile Include="Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

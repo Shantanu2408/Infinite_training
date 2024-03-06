@@ -1,10 +1,10 @@
-﻿﻿using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Student
+namespace Test_1
 {
     abstract class Student
     {
@@ -37,7 +37,7 @@ namespace Student
         {
             Console.WriteLine("----- Abstract class called  Student with  Name, StudentId, Grade as members -----");
 
-            
+
             Undergraduate undergradStudent = new Undergraduate
             {
                 Name = "Shantanu Singh",
@@ -48,7 +48,7 @@ namespace Student
 
             Console.WriteLine($"Undergraduate Student: {undergradStudent.Name}, ID: {undergradStudent.StudentId}, Grade: {undergradStudent.Grade}");
             Console.WriteLine($"Is Passed: {undergradStudent.IsPassed(undergradStudent.Grade)}\n");
-            
+
             Graduate gradStudent = new Graduate
             {
                 Name = "Prashant Singh",
