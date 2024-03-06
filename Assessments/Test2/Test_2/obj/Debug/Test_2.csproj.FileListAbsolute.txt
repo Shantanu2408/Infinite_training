@@ -5,3 +5,10 @@ D:\infinite_Training\Test_2\Test_2\obj\Debug\Test_2.csproj.AssemblyReference.cac
 D:\infinite_Training\Test_2\Test_2\obj\Debug\Test_2.csproj.CoreCompileInputs.cache
 D:\infinite_Training\Test_2\Test_2\obj\Debug\Test_2.exe
 D:\infinite_Training\Test_2\Test_2\obj\Debug\Test_2.pdb
+D:\infinite_Training\Assessments\Test2\Test_2\bin\Debug\Test_2.exe.config
+D:\infinite_Training\Assessments\Test2\Test_2\bin\Debug\Test_2.exe
+D:\infinite_Training\Assessments\Test2\Test_2\bin\Debug\Test_2.pdb
+D:\infinite_Training\Assessments\Test2\Test_2\obj\Debug\Test_2.csproj.AssemblyReference.cache
+D:\infinite_Training\Assessments\Test2\Test_2\obj\Debug\Test_2.csproj.CoreCompileInputs.cache
+D:\infinite_Training\Assessments\Test2\Test_2\obj\Debug\Test_2.exe
+D:\infinite_Training\Assessments\Test2\Test_2\obj\Debug\Test_2.pdb

@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Test_1.Program</StartupObject>
+    <StartupObject>Test_2.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,7 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainFunc.cs" />
-    <Compile Include="Product.cs" />
+    <Compile Include="Products.cs" />
     <Compile Include="Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
