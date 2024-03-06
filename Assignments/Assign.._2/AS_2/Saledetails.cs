@@ -29,6 +29,7 @@ namespace AS_2
         void Sales()
         {
             int Total_Amount = Qty * Price;
+
             Console.WriteLine("Total Amount of product:- " + Total_Amount);
 
         }

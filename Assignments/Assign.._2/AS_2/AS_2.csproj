@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AS_2.Accounts</StartupObject>
+    <StartupObject>AS_2.Saledetails</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

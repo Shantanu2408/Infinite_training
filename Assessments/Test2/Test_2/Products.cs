@@ -27,11 +27,11 @@ namespace Test_2
             s1.Add(27, "Apple");
             s1.Add(12, "Grapes");
             s1.Add(30, "PineApple");
-            s1.Add(80, "Banana");
+            s1.Add(82, "Banana");
             Console.WriteLine("------Sorted List-----");
-            foreach (DictionaryEntry sr in s1)
+            foreach (DictionaryEntry de in s1)
             {
-                Console.WriteLine("" + sr.Key + " " + sr.Value);
+                Console.WriteLine("" + de.Key + " " + de.Value);
                 Console.WriteLine();
             }
 
