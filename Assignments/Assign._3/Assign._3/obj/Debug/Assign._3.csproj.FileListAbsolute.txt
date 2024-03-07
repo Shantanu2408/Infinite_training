@@ -1,0 +1,7 @@
+D:\infinite_Training\Assignments\Assign._3\Assign._3\bin\Debug\Assign._3.exe.config
+D:\infinite_Training\Assignments\Assign._3\Assign._3\bin\Debug\Assign._3.exe
+D:\infinite_Training\Assignments\Assign._3\Assign._3\bin\Debug\Assign._3.pdb
+D:\infinite_Training\Assignments\Assign._3\Assign._3\obj\Debug\Assign._3.csproj.AssemblyReference.cache
+D:\infinite_Training\Assignments\Assign._3\Assign._3\obj\Debug\Assign._3.csproj.CoreCompileInputs.cache
+D:\infinite_Training\Assignments\Assign._3\Assign._3\obj\Debug\Assign._3.exe
+D:\infinite_Training\Assignments\Assign._3\Assign._3\obj\Debug\Assign._3.pdb
