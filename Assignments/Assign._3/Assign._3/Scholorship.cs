@@ -8,9 +8,7 @@ namespace Assign._3
 {
     class Scholorship
     {
-        //If the given mark is >= 70 and <=80, then calculate scholarship amount as 20% of the fees
-        //If the given mark is > 80 and <=90, then calculate scholarship amount as 30% of the fees  
-        //If the given mark is >90, then calculate scholarship amount as 50% of the fees.
+        
         static float Fees;
         static int Marks;
         static float sc;
