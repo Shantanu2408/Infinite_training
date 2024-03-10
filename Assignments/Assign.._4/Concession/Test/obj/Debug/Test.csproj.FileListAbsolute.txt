@@ -1,0 +1,10 @@
+D:\infinite_Training\Concession\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\infinite_Training\Concession\Test\bin\Debug\Test.exe.config
+D:\infinite_Training\Concession\Test\bin\Debug\Test.exe
+D:\infinite_Training\Concession\Test\bin\Debug\Test.pdb
+D:\infinite_Training\Concession\Test\bin\Debug\Concession.dll
+D:\infinite_Training\Concession\Test\bin\Debug\Concession.pdb
+D:\infinite_Training\Concession\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\infinite_Training\Concession\Test\obj\Debug\Test.csproj.CopyComplete
+D:\infinite_Training\Concession\Test\obj\Debug\Test.exe
+D:\infinite_Training\Concession\Test\obj\Debug\Test.pdb

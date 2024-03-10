@@ -1,0 +1,6 @@
+D:\infinite_Training\Concession\Concession\bin\Debug\Concession.dll
+D:\infinite_Training\Concession\Concession\bin\Debug\Concession.pdb
+D:\infinite_Training\Concession\Concession\obj\Debug\Concession.csproj.AssemblyReference.cache
+D:\infinite_Training\Concession\Concession\obj\Debug\Concession.csproj.CoreCompileInputs.cache
+D:\infinite_Training\Concession\Concession\obj\Debug\Concession.dll
+D:\infinite_Training\Concession\Concession\obj\Debug\Concession.pdb
