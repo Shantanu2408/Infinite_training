@@ -1,0 +1,14 @@
+D:\infinite_Training\Assign._5\Assign._5\obj\Debug\Assign._5.csproj.AssemblyReference.cache
+D:\infinite_Training\Assign._5\Assign._5\obj\Debug\Assign._5.csproj.CoreCompileInputs.cache
+D:\infinite_Training\Assign._5\Assign._5\bin\Debug\Assign._5.exe.config
+D:\infinite_Training\Assign._5\Assign._5\bin\Debug\Assign._5.exe
+D:\infinite_Training\Assign._5\Assign._5\bin\Debug\Assign._5.pdb
+D:\infinite_Training\Assign._5\Assign._5\obj\Debug\Assign._5.exe
+D:\infinite_Training\Assign._5\Assign._5\obj\Debug\Assign._5.pdb
+D:\infinite_Training\Assignments\Assign._5\Assign._5\obj\Debug\Assign._5.csproj.CoreCompileInputs.cache
+D:\infinite_Training\Assignments\Assign._5\Assign._5\bin\Debug\Assign._5.exe.config
+D:\infinite_Training\Assignments\Assign._5\Assign._5\bin\Debug\Assign._5.exe
+D:\infinite_Training\Assignments\Assign._5\Assign._5\bin\Debug\Assign._5.pdb
+D:\infinite_Training\Assignments\Assign._5\Assign._5\obj\Debug\Assign._5.exe
+D:\infinite_Training\Assignments\Assign._5\Assign._5\obj\Debug\Assign._5.pdb
+D:\infinite_Training\Assignments\Assign._5\Assign._5\obj\Debug\Assign._5.csproj.AssemblyReference.cache
