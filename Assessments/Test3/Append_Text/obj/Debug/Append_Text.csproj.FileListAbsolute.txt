@@ -1,0 +1,7 @@
+D:\infinite_Training\Append_Text\Append_Text\bin\Debug\Append_Text.exe.config
+D:\infinite_Training\Append_Text\Append_Text\bin\Debug\Append_Text.exe
+D:\infinite_Training\Append_Text\Append_Text\bin\Debug\Append_Text.pdb
+D:\infinite_Training\Append_Text\Append_Text\obj\Debug\Append_Text.csproj.AssemblyReference.cache
+D:\infinite_Training\Append_Text\Append_Text\obj\Debug\Append_Text.csproj.CoreCompileInputs.cache
+D:\infinite_Training\Append_Text\Append_Text\obj\Debug\Append_Text.exe
+D:\infinite_Training\Append_Text\Append_Text\obj\Debug\Append_Text.pdb

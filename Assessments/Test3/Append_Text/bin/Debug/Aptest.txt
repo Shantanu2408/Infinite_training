@@ -1,0 +1,7 @@
+Hello and Welcome
+It is the first content
+of the text file Aptext.txt
+This is the line appended at the last line.
+Hello, My name is Shantanu From Uttar Pradesh
+Hello, My name is Shantanu From Uttar Pradesh
+Hello, My name is Shantanu From Uttar Pradesh
