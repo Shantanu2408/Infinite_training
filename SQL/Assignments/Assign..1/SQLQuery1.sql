@@ -18,10 +18,13 @@ Actual_End_Date Date, Budget Numeric(10), Client_id Numeric(4) foreign key refer
 
 --Employee Project Task Table
 create table EmpProjectTask(Project_ID numeric(3),Empno numeric(4),StartDate date,EndDate date,
-Task varchar(25),Status varchar(15))
+Task varchar(25),Status varchar(15),primary key(Project_ID,Empno),
+foreign key (Empno)references Employee(Empno),
+foreign key (Project_ID)references Project(Project_ID))
 
 --Insert values in client table 
-insert into Clients values(1001,'ACME Utilities','Noida','contact@acmeutil.com',9567880032,'Manufacturing'),
+insert into Clients values
+(1001,'ACME Utilities','Noida','contact@acmeutil.com',9567880032,'Manufacturing'),
 (1002,'Trackon Consultants','Mumbai','consult@trackon.com',8734210090,'Consultant'),
 (1003,'MoneySaver Distributors','Kolkata','save@moneysaver.com',7799886655,'Reseller'),
 (1004,'Lawful Corp','Chennai','justice@lawful.com',9210342219,'Professional')
