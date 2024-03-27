@@ -42,8 +42,6 @@ Set @Deductions = @PF + @IT
 -- Gross Salary
 Set @Gross_Salary = @Salary + @Hra + @DA
 
- --Calculate Deductions
-Set @Deductions = @PF + @IT
 
 -- Net Salary
 Set @Net_Salary = @Gross_Salary - @Deductions
