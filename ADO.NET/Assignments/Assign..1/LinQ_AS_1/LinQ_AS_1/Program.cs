@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace LinQ_AS_1
 {
     //1. Create a console application and add class named Employee with following field.
-    //Create class Employees 
+    //Create class Employees with all of giving parameters 
     class Employees
     {
        public int Emp_ID { get; set; }
