@@ -9,7 +9,7 @@ Create Table Employee_Details(Emp_no int Primary key,Emp_Name varchar(50) not nu
 
 --1:-Create a stored procedure that adds new rows to the Employee_Details Table. The procedure should accept all the 
 --details as input except empno. You need to write the code in the procedure to generate the empno and then insert.
-Create or alter Proc Add_Row(@EmpName varchar(50), @EmpSalary numeric(10), @EmpType Char(1))
+Create or alter Proc Add_Row (@EmpName varchar(50), @EmpSalary numeric(10), @EmpType Char(1))
 As
 begin
 -- Generating a new Employee number....
@@ -20,5 +20,6 @@ Insert Into Employee_Details (Emp_no, Emp_Name, Emp_Salary, Employee_Type)
 values (@New_Emp_no, @EmpName, @EmpSalary, @EmpType)
 end
 
+exec Add_Row 'Ram',50000,'P'
 
 
