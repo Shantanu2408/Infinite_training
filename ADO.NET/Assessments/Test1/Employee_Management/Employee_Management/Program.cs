@@ -41,7 +41,7 @@ namespace Employee_Management
                 int Emp_Sal;
                 char Emp_Type;
                 Console.WriteLine("Insert the data in Employee_Details Table:- ");
-                cmd.CommandType = System.Data.CommandType.StoredProcedure;
+               
                 Console.WriteLine("");
                 Console.Write("Enter Employee Name: ");
                 EmpName = Convert.ToString(Console.ReadLine());
@@ -51,17 +51,17 @@ namespace Employee_Management
 
                 Console.Write("Enter Employee Type: ");
                 Emp_Type = Convert.ToChar(Console.ReadLine());
+                cmd.CommandType = System.Data.CommandType.StoredProcedure;
 
-                    cmd = new SqlCommand("insert into Employee_Details values(@EmpName,@EmpSalary,@EmpType)", connect);
-                    cmd.Parameters.AddWithValue("@EmpName", EmpName);
-                    cmd.Parameters.AddWithValue("@EmpSalary", Emp_Sal);
-                    cmd.Parameters.AddWithValue("@EmpType", Emp_Type);
+                cmd.Parameters.AddWithValue("@EmpName", EmpName);
+                cmd.Parameters.AddWithValue("@EmpSalary", Emp_Sal);
+                cmd.Parameters.AddWithValue("@EmpType", Emp_Type);
 
-                //connect.Open();
+
                 cmd.ExecuteNonQuery();
                       
                         Console.WriteLine("\t\t\t\t\t\tData Inserted Successfully..");
-                //connect.Close();
+                connect.Close();
                     
             }
         }
