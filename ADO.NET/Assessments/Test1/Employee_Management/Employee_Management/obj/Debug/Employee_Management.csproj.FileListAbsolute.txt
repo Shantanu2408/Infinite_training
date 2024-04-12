@@ -1,0 +1,7 @@
+D:\infinite_Training\ADO.NET\Assessments\Test1\Employee_Management\Employee_Management\obj\Debug\Employee_Management.csproj.AssemblyReference.cache
+D:\infinite_Training\ADO.NET\Assessments\Test1\Employee_Management\Employee_Management\obj\Debug\Employee_Management.csproj.CoreCompileInputs.cache
+D:\infinite_Training\ADO.NET\Assessments\Test1\Employee_Management\Employee_Management\bin\Debug\Employee_Management.exe.config
+D:\infinite_Training\ADO.NET\Assessments\Test1\Employee_Management\Employee_Management\bin\Debug\Employee_Management.exe
+D:\infinite_Training\ADO.NET\Assessments\Test1\Employee_Management\Employee_Management\bin\Debug\Employee_Management.pdb
+D:\infinite_Training\ADO.NET\Assessments\Test1\Employee_Management\Employee_Management\obj\Debug\Employee_Management.exe
+D:\infinite_Training\ADO.NET\Assessments\Test1\Employee_Management\Employee_Management\obj\Debug\Employee_Management.pdb
